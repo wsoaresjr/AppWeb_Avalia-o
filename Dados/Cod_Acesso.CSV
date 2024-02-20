@@ -1,0 +1,8 @@
+codigo;nome;user;password;grupo
+1;Administrador;admin;admin;Administrador
+2;Professor 1;prof1;1234;Professor
+3;Aluno 1;aluno1;1234;Aluno
+4;Elaborador 1;elaborador1;1234;Elaborador
+5;Revisor 1;revisor1;1234;Revisor
+6;Modelagem 1; modelagem1;1234;Modelagem
+
